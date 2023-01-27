@@ -1,4 +1,4 @@
-# mascii (/mʌsˈkiː/, Japanese: ますきー)
+## mascii ([/ˈmʌskiː/](https://accenthero.com/app/pronunciation-practice/english/american/muskie), Japanese: ますきー)
 
 |key|URL|
 |---|-----|
